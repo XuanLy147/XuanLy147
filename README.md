@@ -2,7 +2,7 @@
 
 🎓 I'm a student majoring in IT at Saigon University  
 💻 I'm currently learning **C/C++, Java, Web Development**  
-📚 I’m interested in **Operating Systems, Databases, and Web Dev**  
+📚 I’m interested in **, Databases and Web Dev**  
 🌱 I’m currently working on personal projects and learning Git  
 🤝 I’m open to collaboration on simple and meaningful projects  
 📫 How to reach me: **hoxuanly147@gmail.com**
